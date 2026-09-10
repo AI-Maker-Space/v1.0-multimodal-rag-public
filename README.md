@@ -4,7 +4,7 @@
 
 ## Reference Example
 
-This code and demo are from the previous cohort and are included as a showcase for [Tyler](https://www.linkedin.com/in/tykanoalaughlin/). 
+This code and demo are from the previous cohort as a showcase for our new code instructor [Tyler](https://www.linkedin.com/in/tykanoalaughlin/). 
 
 | 📰 Session Sheet | ⏺️ Recording | 🖼️ Slides | 👨‍💻 Repo | 📝 Homework | 📁 Feedback |
 |:----------------|:------------|:----------|:---------|:-----------|:-----------|
